@@ -11,3 +11,7 @@ wheels/
 
 # Datasets
 datasets/
+
+
+# mac osx hidden files
+.DS_Store
